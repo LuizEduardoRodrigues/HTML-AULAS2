@@ -1,0 +1,28 @@
+*{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+body{
+
+ background-image: url(Imagemfundo/projeto-da-placa-de-circuito-de-tecnologia-vetorial-sobre-fundo-de-cor-azul-escuro_43778-620.avif); 
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+  color: #ffFf;
+
+}
+h1
+{
+    text-align: center;
+    background-color: #ffFf;
+    color: black;
+}
+h5 {
+
+  text-align: right;   
+}
+ul.square {
+	list-style-type: square;
+	}
